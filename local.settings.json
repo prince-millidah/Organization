@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "cosmosURL": "alpha-location-url",
+    "cosmosKey": "alpha-location-connection-key",
+    "keyVault": "https://obsv-alpha-we-kv.vault.azure.net/",
+    "snowflakeKey": "Prince-Snowflake-sas",
+    "snowflakeURL": "scheme=https;host=uipath_observability.west-europe.azure.snowflakecomputing.com;port=443;account=uipath_observability;warehouse=DEVWH;db=DEV;schema=PRINCEMILLIDAH_ORGANIZATIONTEST;user=PRINCE_TEST;password={passcode}"
+  }
+}

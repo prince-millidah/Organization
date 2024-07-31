@@ -1,0 +1,132 @@
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\msvcp140.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\host.json
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\local.settings.json
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\functions.metadata
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\worker.config.json
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\extensions.json
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\UpdateOrganization .NET.exe
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\.azurefunctions\function.deps.json
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.Functions.Worker.Extensions.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.Functions.Worker.Extensions.pdb
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.WebJobs.Extensions.FunctionMetadataLoader.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\.azurefunctions\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\.azurefunctions\Microsoft.WindowsAzure.Storage.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\UpdateOrganization .NET.deps.json
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\UpdateOrganization .NET.runtimeconfig.json
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\UpdateOrganization .NET.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\UpdateOrganization .NET.pdb
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Apache.Arrow.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Apis.Storage.v1.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Cloud.Storage.V1.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\log4net.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.AI.DependencyCollector.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.AI.EventCounterCollector.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.AI.WindowsServer.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.ApplicationInsights.WorkerService.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.ApplicationInsights.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Extensions.Abstractions.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Extensions.Http.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Extensions.Timer.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.Functions.Worker.Grpc.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.WebJobs.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Mono.Unix.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\NCrontab.Signed.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\Snowflake.Data.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Management.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.csproj.AssemblyReference.cache
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.AssemblyInfoInputs.cache
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.AssemblyInfo.cs
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.csproj.CoreCompileInputs.cache
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOr.6FA9D320.Up2Date
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\refint\UpdateOrganization .NET.dll
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.pdb
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\UpdateOrganization .NET.genruntimeconfig.cache
+C:\Users\prince.millidah\Desktop\UpdateOrganization .NET\obj\Debug\net8.0\ref\UpdateOrganization .NET.dll

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "UpdateOrganization",
+    "scriptFile": "UpdateOrganization .NET.dll",
+    "entryPoint": "UiPath.CosmosMigration.UpdateOrganization.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "myTimer",
+        "direction": "In",
+        "type": "timerTrigger",
+        "schedule": "0 */5 * * * *",
+        "properties": {}
+      }
+    ]
+  }
+]
